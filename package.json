@@ -1,0 +1,16 @@
+{
+  "name": "correos-precios",
+  "version": "1.0.0",
+  "description": "Precios de Correos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Álex Acuña Viera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.2",
+    "querystring": "^0.2.0"
+  }
+}
